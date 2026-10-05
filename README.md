@@ -110,3 +110,10 @@ e contribuir para o desenvolvimento de soluções reais.
 ---
 
 ⭐ Obrigado pela visita ao meu perfil!
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcosPholker&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPholker&layout=compact&hide_border=true" height="165"/>
+</p>
