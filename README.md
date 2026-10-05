@@ -1,9 +1,9 @@
 # Olá! Eu sou o Marcos Silva 👋
 
-### Desenvolvedor de Software Júnior | Backend
+### Desenvolvedor de Software Júnior | Full Stack
 
-Sou desenvolvedor de software em início de carreira, com foco em desenvolvimento
-backend e interesse em construir aplicações organizadas, funcionais e escaláveis.
+Sou desenvolvedor de software em início de carreira, com foco no desenvolvimento
+de aplicações web completas, atuando tanto no backend quanto no frontend.
 
 Atualmente, venho desenvolvendo projetos próprios para transformar meus estudos
 em experiência prática e aprimorar minha capacidade de resolver problemas através
@@ -13,9 +13,10 @@ da programação.
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Foco em desenvolvimento Backend
+- 👨‍💻 Desenvolvimento Full Stack
 - ☕ Java e Spring Boot
 - 🌐 Desenvolvimento de APIs REST
+- ⚛️ React e JavaScript
 - 🗄️ Bancos de dados e persistência de dados
 - 🔐 Autenticação e segurança de aplicações
 - 🔧 Git e GitHub
@@ -30,6 +31,12 @@ da programação.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
@@ -37,10 +44,6 @@ da programação.
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -51,14 +54,14 @@ da programação.
 Sistema desenvolvido para gerenciamento de solicitações internas,
 com autenticação, controle de status, filtros e dashboard.
 
-**Tecnologias:** Java • Spring Boot • REST API • JPA • PostgreSQL
+**Tecnologias:** Java • Spring Boot • REST API • JPA • PostgreSQL • React
 
 ---
 
 ### 🔹 JobFlow
 
-API para autenticação e gerenciamento de usuários, desenvolvida com
-Java e Spring Boot.
+Aplicação para autenticação e gerenciamento de usuários, desenvolvida
+com backend em Java e Spring Boot.
 
 **Tecnologias:** Java • Spring Boot • Spring Security • JWT • BCrypt • JPA • PostgreSQL
 
@@ -66,7 +69,7 @@ Java e Spring Boot.
 
 ### 🔹 DeskFlow
 
-API REST para gerenciamento de chamados de suporte, trabalhando com
+Sistema para gerenciamento de chamados de suporte, trabalhando com
 cadastro de clientes, chamados e controle de status.
 
 **Tecnologias:** Java • Spring Boot • REST API
@@ -100,8 +103,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 ## 🎯 Objetivo
 
 Busco minha primeira oportunidade profissional como Desenvolvedor de Software,
-onde possa aplicar meus conhecimentos, aprender com profissionais experientes
-e contribuir para o desenvolvimento de soluções reais.
+onde possa aplicar meus conhecimentos em desenvolvimento Full Stack, aprender
+com profissionais experientes e contribuir para o desenvolvimento de soluções reais.
 
 ---
 
